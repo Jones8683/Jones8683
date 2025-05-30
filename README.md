@@ -23,4 +23,8 @@ Currently, I'm helping out on a few BetterSEQTA+ repos 🔭
   <img alt="github-snake" src="https://raw.githubusercontent.com/jones8683/jones8683/output/github-contribution-grid-snake.svg" />
 </picture>
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jones8683&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=45%2C3E00FF%2C4800C2&ring=00FFB6&fire=00FFB6&currStreakLabel=00FFB6)](https://github.com/Jones8683)
+
 
