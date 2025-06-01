@@ -1,4 +1,4 @@
-Hi ! 👋 My name is Jones Jankovic
+Hi! 👋 My name is Jones Jankovic
 ======================================================================================================================================
 
 I have experience in various coding languages, design, and development 🔭
