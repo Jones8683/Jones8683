@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jones Jankovic
+Hi ! 👋 My name is Jones Jankovic
 ======================================================================================================================================
 
-I have experience in coding in html, typescript, javascript, and python 🔭
+I have experience in various coding languages, design, and development 🔭
 
 * 🌍  I'm based in Adelaide
 * ✉️  You can contact me at [outerrim1977@gmail.com](mailto:outerrim1977@gmail.com)
 * 🚀  I'm currently working on [BetterSEQTA+](http://https://github.com/BetterSEQTA/BetterSEQTA-Plus)
 * 🤝  I'm open to collaborating on basically anything :)
-* ⚡  I'm a student
+* ⚡  I'm a student in high school 
 
 ### Skills
 
