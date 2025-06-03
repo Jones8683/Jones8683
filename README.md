@@ -7,7 +7,7 @@ I have experience in various coding languages, design, and development 🔭
 * ✉️  You can contact me at [outerrim1977@gmail.com](mailto:outerrim1977@gmail.com)
 * 🚀  I'm currently working on [BetterSEQTA+](http://https://github.com/BetterSEQTA/BetterSEQTA-Plus)
 * 🤝  I'm open to collaborating on basically anything :)
-* ⚡  I'm a student in high school 
+* ⚡  I'm currently studying in high school 
 
 ### Skills
 
