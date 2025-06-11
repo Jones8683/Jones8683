@@ -19,7 +19,7 @@ I have experience in various coding languages, design, and development 🔭
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/outerrim77" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/users/1378992101970280471" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
