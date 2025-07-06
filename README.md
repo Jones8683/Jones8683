@@ -45,6 +45,3 @@ I have experience in various coding languages, design, and development 🔭
 </picture>
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jones8683&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=45%2C3E00FF%2C4800C2&ring=00FFB6&fire=00FFB6&currStreakLabel=00FFB6)](https://github.com/Jones8683)
-
