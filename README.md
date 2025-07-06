@@ -5,7 +5,7 @@ I have experience in various coding languages, design, and development 🔭
 
 * 🌍  I'm based in Adelaide
 * ✉️  You can contact me at [outerrim1977@gmail.com](mailto:outerrim1977@gmail.com)
-* 🚀  I'm currently working on [BetterSEQTA+](https://github.com/BetterSEQTA/BetterSEQTA-Plus)
+* 🚀  Current member of the [BetterSEQTA+ team](https://github.com/BetterSEQTA/BetterSEQTA-Plus)
 * 🤝  I'm open to collaborating on basically anything :)
 * ⚡  I'm currently studying in high school 
 
