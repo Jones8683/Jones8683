@@ -14,14 +14,7 @@ I have some experience with coding and enjoy working with computers and systems.
 
 ### Socials
 
-  <a href="https://www.github.com/jones8683" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-</p>
+<p align="left"><a href="https://github.com/Jones8683" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a><a href="https://discord.com/users/1378992101970280471" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a></p>
 
 ---
 
