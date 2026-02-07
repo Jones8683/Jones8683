@@ -1,4 +1,4 @@
-name: generate dark snake for website
+name: generate dark animation
 
 on:
   schedule:
