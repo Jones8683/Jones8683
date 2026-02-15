@@ -4,7 +4,7 @@ Hi! 👋 My name is Jones Jankovic
 I have some experience with coding and enjoy working with computers and systems. I’m interested in how things work and in creating clean, well-structured digital experiences.
 
 * 🌍  I'm based in Adelaide
-* ✉️  You can contact me at [outerrim1977@gmail.com](mailto:outerrim1977@gmail.com)
+* ✉️  You can contact me at [jones@jonesjankovic.com](mailto:jones@jonesjankovic.com)
 * 🚀  Current member of the [BetterSEQTA+ Team](https://github.com/BetterSEQTA/BetterSEQTA-Plus)
 * ⚡  I'm currently studying in high school 
 
