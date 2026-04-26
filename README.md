@@ -14,6 +14,7 @@ I have some experience with coding and enjoy working with computers and systems.
 ### Socials
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jones8683)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jones@jonesjankovic.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1378992101970280471)
 
 ---
