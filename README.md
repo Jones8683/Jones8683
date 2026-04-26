@@ -9,11 +9,12 @@ I have some experience with coding and enjoy working with computers and systems.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,vscode,html,nodejs,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,vscode,html,nodejs,arduino,github,ps)](https://skillicons.dev)
 
 ### Socials
 
-<p align="left"><a href="https://github.com/Jones8683" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a><a href="https://discord.com/users/1378992101970280471" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a></p>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jones8683)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1378992101970280471)
 
 ---
 
