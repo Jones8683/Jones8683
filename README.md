@@ -5,13 +5,14 @@ I have some experience with coding and enjoy working with computers and systems 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,vscode,html,nodejs,arduino,github,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,arduino,nodejs,vscode,ps,github)](https://skillicons.dev)
 
 ### Socials
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jones8683)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:outerrim1977@gmail.com)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1537745548000497716)
+<a href="https://jjank.com"><img src="Profile.png" width="48" height="48" alt="jjank.com" /></a>
 
 ---
 
