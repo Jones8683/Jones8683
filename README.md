@@ -1,7 +1,7 @@
 Hey there! 👋 My name is Jones Jankovic
 ======================================================================================================================================
 
-I have some experience with coding and enjoy working with computers and systems. I’m interested in how things work and how I can use that knowledge to create cool projects.
+I have some experience with coding and enjoy working with computers and systems to create cool projects.
 
 ### Skills
 
